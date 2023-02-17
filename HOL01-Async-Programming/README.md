@@ -125,7 +125,7 @@ The "Labs" folder contains hands-on labs. The labs are integrated throughout the
 
 * [Lab 01 - Recommended Practices and Continuations](Labs/Lab01/)
 * [Lab 02 - Adding Async to an Existing Application](Labs/Lab02/)
-* [Lab 05 - Parallel Practices](Labs/Lab03/)
+* [Lab 03 - Parallel Practices](Labs/Lab03/)
 * [Lab BONUS - Working with AggregateException](Labs/LabBONUS-AggregateException/)
 * [Lab BONUS - Unit Testing Asynchronous Methods](Labs/LabBONUS-UnitTesting/)
 
