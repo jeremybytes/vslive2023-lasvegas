@@ -51,7 +51,8 @@ Note: Install the "ASP.NET and web development" workload for the labs and sample
 
 Resources:  
 * Slides: [/HOL01-Async-Programming/SLIDES-HOL01-Asynchronous-Programming-in-CSharp.pdf](./HOL01-Async-Programming/SLIDES-HOL01-Asynchronous-Programming-in-CSharp.pdf)
-* Sample Code: [/HOL01-Async-Programming/](./HOL01-Async-Programming/)
+* Sample Code: [/HOL01-Async-Programming/](./HOL01-Async-Programming/)  
+* Labs (for easy download): [https://github.com/jeremybytes/async-workshop-labs-only-2023](https://github.com/jeremybytes/async-workshop-labs-only-2023)
 
 ---  
 

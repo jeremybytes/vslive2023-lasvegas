@@ -1,5 +1,10 @@
 HOL01 - Asynchronous and Parallel Programming in C#
 ============================
+
+**To download just the labs, you can visit this repository:  
+[https://github.com/jeremybytes/async-workshop-labs-only-2023](https://github.com/jeremybytes/async-workshop-labs-only-2023)**  
+
+
 This project contains slides and code samples for the "Asynchronous and Parallel Programming in C#" workshop with Jeremy Clark.  
 
 Overview and Objectives
