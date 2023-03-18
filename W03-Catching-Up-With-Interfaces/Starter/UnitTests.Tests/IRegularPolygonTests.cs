@@ -51,7 +51,7 @@ namespace UnitTests.Tests
             var mock = new Mock<IRegularPolygon>();
             //// Note: CallBase is needed to get to 
             ////       default implementation
-            //mock.CallBase = true;
+            mock.CallBase = true;
             mock.SetupGet(m => m.NumberOfSides).Returns(3);
             mock.SetupGet(m => m.SideLength).Returns(5);
 

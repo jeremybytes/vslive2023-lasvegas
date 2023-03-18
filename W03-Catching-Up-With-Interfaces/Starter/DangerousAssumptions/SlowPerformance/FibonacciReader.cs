@@ -9,10 +9,10 @@ public class FibonacciReader : IReader<int>
 
     // Comment out this method to use the default implementation
     // from the interface
-    public int GetItemAt(int index)
-    {
-        return new FibonacciSequence().ElementAt(index);
-    }
+    //public int GetItemAt(int index)
+    //{
+    //    return new FibonacciSequence().ElementAt(index);
+    //}
 
 }
 

@@ -4,18 +4,25 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var repeatNexter = new Nexter<RepeatSequence>();
-        int count = 0;
-        foreach(var s in repeatNexter)
+        var repeater = new RepeatSequence();
+        for (int i = 0; i < 10; i++)
         {
-            if (++count > 10) break;
-            Console.WriteLine(s);
+            Console.WriteLine(repeater);
+            repeater++;
         }
 
-        var fibNexter = new Nexter<FibonacciNext>();
-        foreach (var s in fibNexter)
-        {
-            Console.WriteLine(s);
-        }
+        //var repeatNexter = new Nexter<RepeatSequence>();
+        //int count = 0;
+        //foreach(var s in repeatNexter)
+        //{
+        //    if (++count > 10) break;
+        //    Console.WriteLine(s);
+        //}
+
+        //var fibNexter = new Nexter<FibonacciNext>();
+        //foreach (var s in fibNexter)
+        //{
+        //    Console.WriteLine(s);
+        //}
     }
 }
