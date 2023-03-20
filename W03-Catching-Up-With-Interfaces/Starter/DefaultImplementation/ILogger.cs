@@ -8,7 +8,7 @@ public enum LogLevel
     Error,
 }
 
-internal interface ILogger
+public interface ILogger
 {
     void Log(LogLevel level, string message);
 }
