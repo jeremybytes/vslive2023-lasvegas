@@ -27,9 +27,11 @@ Resources
 * [Static Members](https://jeremybytes.blogspot.com/2019/12/c-8-interfaces-static-members.html)  
 * [Static Main -- Why Not?](https://jeremybytes.blogspot.com/2019/12/c-8-interfaces-static-main-why-not.html)  
 
-**Microsoft Docs Samples**
+**Microsoft Samples and References**
 * [Tutorial: Update interfaces with default interface methods in C# 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/default-interface-methods-versions)
 * [Tutorial: Mix functionality in when creating classes using interfaces with default interface methods](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/mixins-with-default-interface-methods)  
+* [Tutorial: Tutorial: Explore C# 11 feature - static virtual members in interfaces](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/static-virtual-interface-members)
+* [GitHub Issue: Disallow interfaces with static virtual members as type arguments](https://github.com/dotnet/csharplang/issues/5955)  
 
 **Additional Topics**  
 * [IEnumerable, ISaveable, IDontGetIt: Understanding C# Interfaces](http://www.jeremybytes.com/Demos.aspx#INT)  
